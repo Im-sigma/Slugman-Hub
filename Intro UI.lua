@@ -1,7 +1,7 @@
 local folderName = "Slugman Hub"
 local fileName = "Intro.jpeg"
 local filePath = folderName .. "/" .. fileName
-local imageURL = "https://drive.google.com/uc?export=download&id=1JCVez25HOwdtOreh5Tu0efrRZeDkh4aF"
+local imageURL = "https://cdn.jsdelivr.net/gh/Im-sigma/tmp@refs/heads/main/proof2.jpeg"
 if not isfolder(folderName) then
     makefolder(folderName)
 end
