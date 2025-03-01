@@ -1,4 +1,4 @@
-local vynixuModulesURL = "https://raw.githubusercontent.com/Nobodylmao-sigma-is-me/Script-Configs/refs/heads/main/aa66285b-9df6-4514-a92e-3cbf52bdc737"
+local vynixuModulesURL = "https://raw.githubusercontent.com/Im-sigma/Slugman-Hub/refs/heads/main/vynixuModules.lua"
 local filePath = "vynixuModules.lua"
 local function saveUrlToFile(url, fileName)
     local fileContent = game:HttpGet(url)
